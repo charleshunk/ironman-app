@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ironman-app/static/css/main.21e79708.chunk.css",
+    "main.js": "/ironman-app/static/js/main.8ccccd66.chunk.js",
+    "main.js.map": "/ironman-app/static/js/main.8ccccd66.chunk.js.map",
+    "runtime-main.js": "/ironman-app/static/js/runtime-main.b975c3b0.js",
+    "runtime-main.js.map": "/ironman-app/static/js/runtime-main.b975c3b0.js.map",
+    "static/js/2.1b20f9af.chunk.js": "/ironman-app/static/js/2.1b20f9af.chunk.js",
+    "static/js/2.1b20f9af.chunk.js.map": "/ironman-app/static/js/2.1b20f9af.chunk.js.map",
+    "index.html": "/ironman-app/index.html",
+    "precache-manifest.08470ed872e4718ec91c8356f3b53f7f.js": "/ironman-app/precache-manifest.08470ed872e4718ec91c8356f3b53f7f.js",
+    "service-worker.js": "/ironman-app/service-worker.js",
+    "static/css/main.21e79708.chunk.css.map": "/ironman-app/static/css/main.21e79708.chunk.css.map",
+    "static/js/2.1b20f9af.chunk.js.LICENSE.txt": "/ironman-app/static/js/2.1b20f9af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b975c3b0.js",
+    "static/js/2.1b20f9af.chunk.js",
+    "static/css/main.21e79708.chunk.css",
+    "static/js/main.8ccccd66.chunk.js"
+  ]
+}
